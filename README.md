@@ -1,21 +1,14 @@
 [![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
-# RoboND-MCL-Lab
-You will be able to observe the `MCL` in action through the generated images. 
+# MCL_algorithm
 
-### Editing the Program
-Enter the code in the designated section:
-```C++
-//####   DON'T MODIFY ANYTHING ABOVE HERE! ENTER CODE BELOW ####
-		
-//TODO: Graph the position of the robot and the particles at each step 
-```
+The Monte Carlo Localisation algorithm in C++. 
 
 ### Compiling the Program
 ```sh
 $ cd /home/workspace/
-$ git clone https://github.com/udacity/RoboND-MCL-Lab
-$ cd RoboND-MCL-Lab/
+$ git clone https://github.com/mulbarry/MCL_algorithm
+$ cd MCL_algorithm/
 $ rm -rf Images/*
 $ g++ main.cpp -o app -std=c++11 -I/usr/include/python2.7 -lpython2.7
 ```
