@@ -9,7 +9,7 @@ The algorithm starts with a uniform random distribution of particles over the co
 Clone the driver:
 ```
 $ cd /home/workspace/
-$ git clone https://github.com/mulbarry/MCL_algorithm
+$ git clone https://github.com/barrymulvey/MCL_algorithm
 $ cd MCL_algorithm/
 ```
 Empty the Images folder:
